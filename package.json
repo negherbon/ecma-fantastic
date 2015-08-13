@@ -1,0 +1,25 @@
+{
+  "name": "ecma-fantastic",
+  "version": "1.0.0",
+  "description": "ECMAScript6 Source Example.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspoleza/ecma-fantastic.git"
+  },
+  "author": "Matheus Poleza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuspoleza/ecma-fantastic/issues"
+  },
+  "homepage": "https://github.com/matheuspoleza/ecma-fantastic#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
